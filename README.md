@@ -1,3 +1,5 @@
+## THIS IS NOT MAINTAINED ANYMORE, USE HOUDINI INSTEAD
+
 # Kitsune, Zaseth edit
 A PHP implementation of Club Penguin's latest protocol.
 
